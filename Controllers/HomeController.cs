@@ -10,7 +10,6 @@ namespace SalsaaWeb.Controllers
     {
         public ActionResult Index()
         {
-           // Ist das wahr
            return View();
         }
 
