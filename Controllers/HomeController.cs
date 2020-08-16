@@ -10,6 +10,7 @@ namespace SalsaaWeb.Controllers
     {
         public ActionResult Index()
         {
+            //Github test
             return View();
         }
 
