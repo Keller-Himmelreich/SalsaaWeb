@@ -10,7 +10,8 @@ namespace SalsaaWeb.Controllers
     {
         public ActionResult Index()
         {
-           return View();
+            // Das ist ein toller Test
+            return View();
         }
 
         public ActionResult About()
