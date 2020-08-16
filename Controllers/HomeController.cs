@@ -10,8 +10,8 @@ namespace SalsaaWeb.Controllers
     {
         public ActionResult Index()
         {
-            //Github test
-            return View();
+           // Ist das wahr
+           return View();
         }
 
         public ActionResult About()
@@ -24,7 +24,7 @@ namespace SalsaaWeb.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-
+            // Ein Kommentar
             return View();
         }
     }
